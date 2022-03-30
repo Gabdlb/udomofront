@@ -1,0 +1,8 @@
+{
+  "name": "Udomo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "01a63fc5"
+}
